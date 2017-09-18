@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AZdev - WordPress Development, Meteor Development, PHP Development | World Class dev team</title>
+    <description>We build World Class Websites using WordPress, Meteor, CI &amp; Yii, we make impossible projects up and running.
+</description>
+    <link>http://azdv.co/</link>
+    <atom:link href="http://azdv.co/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Sep 2017 16:18:08 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 16:18:08 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+  </channel>
+</rss>
