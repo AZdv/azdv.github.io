@@ -1,14 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AZdev - WordPress Development, Meteor Development, PHP Development | World Class dev team</title>
-    <description>We build World Class Websites using WordPress, Meteor, CI &amp; Yii, we make impossible projects up and running.
-</description>
-    <link>http://azdv.co/</link>
-    <atom:link href="http://azdv.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Oct 2017 20:21:48 +0100</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2017 20:21:48 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://azdv.co/" rel="alternate" type="text/html" />
+  <updated>2017-10-27T10:50:42+01:00</updated>
+  <id>http://azdv.co/</id>
+
+  
+
+  
+    <subtitle>We build World Class Solutions using NodeJS, WordPress, Meteor, SailsJS &amp; Yii, we make impossible projects up and running.
+</subtitle>
+  
+
+  
+
+  
+    <entry>
+      <title>Welcome to AZdev Blog!</title>
+      <link href="http://azdv.co/2017/10/welcome-to-azdev-blog/" rel="alternate" type="text/html" title="Welcome to AZdev Blog!" />
+      <published>2017-10-23T00:00:00+01:00</published>
+        
+        <updated>2017-10-23T00:00:00+01:00</updated>
+      
+
+      <id>http://azdv.co/2017/10/welcome-to-azdev-blog</id>
+      <content type="html" xml:base="http://azdv.co/2017/10/welcome-to-azdev-blog/">&lt;p&gt;Hey everyone, this is the first post of AZdev’s Blog! &lt;br /&gt;
+And then 0, became 1. &lt;br /&gt;&lt;/p&gt;
+</content>
+
+      
+        <author>
+          
+            <name>AZdev</name>
+          
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="Technology" />
+      
+
+      
+        <summary>Hey everyone, this is the first post of AZdev’s Blog! And then 0, became 1. </summary>
+      
+    </entry>
+  
+</feed>
