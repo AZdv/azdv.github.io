@@ -967,6 +967,8 @@ a:hover {
 
 .page-title-container {
   background-image: url(../img/page_title_bg.png); }
+  .page-title-container.small {
+    height: 30px; }
 
 .post-content p {
   margin-bottom: 20px; }
@@ -1320,6 +1322,62 @@ h1.what_we_do {
 .pluginpacker-imageframe {
   margin-top: 10px;
   margin-bottom: 10px; }
+
+.blog .post {
+  margin-bottom: 20px; }
+  .blog .post.founders-blog .post-title a:before {
+    content: "Founder's Blog: ";
+    color: #999; }
+  .blog .post .post-image-wrapper {
+    float: left;
+    margin-right: 24px;
+    width: 320px;
+    min-height: 180px; }
+    .blog .post .post-image-wrapper img {
+      max-width: 320px; }
+  .blog .post .post-content {
+    font-size: 16px;
+    line-height: 28px; }
+  .blog .post .post-footer {
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-top: 1px solid #e0dede;
+    border-bottom: 1px solid #e0dede;
+    padding: 5px 0; }
+  .blog .post .post-footer-left {
+    display: inline;
+    float: left;
+    width: 80%; }
+  .blog .post .post-footer-right {
+    display: inline;
+    float: right; }
+  .blog .post h2 {
+    font-size: 1.4rem; }
+  .blog .post .blk {
+    color: #000; }
+
+#content.blog {
+  width: auto;
+  float: none;
+  padding: 25px 30px; }
+
+#content.single-post {
+  font-size: 22px; }
+  #content.single-post h1 {
+    font-size: 34px;
+    color: #000;
+    margin-bottom: 40px; }
+  #content.single-post .post-body {
+    color: #222;
+    line-height: 34px;
+    margin-bottom: 40px; }
+  #content.single-post #post-head-image {
+    max-width: 750px;
+    margin: 20px auto 40px auto; }
+
+.post-tags {
+  font-size: 13px; }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1366px) and (orientation: portrait) {
   .header-social, #header, #footer, .footer-area, #main {
