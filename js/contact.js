@@ -13,6 +13,13 @@
 			if ( ! formValid )
 				return false;
 			submitted = true;
+			if (dataLayer) {
+				dataLayer.push({
+					'Category': 'ContactForm',
+					'Action': 'ContactFormSubmit',
+					'event': 'auto_event'
+				});
+			}
 		},
 	})
 })(jQuery);
