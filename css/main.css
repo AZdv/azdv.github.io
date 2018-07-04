@@ -764,27 +764,27 @@ body:not(:-moz-handler-blocked) .fusion-separator.sep-shadow:after {
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 400;
-  src: local("PT Sans"), local("PTSans-Regular"), url(http://fonts.gstatic.com/s/ptsans/v8/FUDHvzEKSJww3kCxuiAo2A.ttf) format("truetype"); }
+  src: local("PT Sans"), local("PTSans-Regular"), url(//fonts.gstatic.com/s/ptsans/v8/FUDHvzEKSJww3kCxuiAo2A.ttf) format("truetype"); }
 @font-face {
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 700;
-  src: local("PT Sans Bold"), local("PTSans-Bold"), url(http://fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNC3USBnSvpkopQaUR-2r7iU.ttf) format("truetype"); }
+  src: local("PT Sans Bold"), local("PTSans-Bold"), url(//fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNC3USBnSvpkopQaUR-2r7iU.ttf) format("truetype"); }
 @font-face {
   font-family: 'PT Sans';
   font-style: italic;
   font-weight: 400;
-  src: local("PT Sans Italic"), local("PTSans-Italic"), url(http://fonts.gstatic.com/s/ptsans/v8/PIPMHY90P7jtyjpXuZ2cLKCWcynf_cDxXwCLxiixG1c.ttf) format("truetype"); }
+  src: local("PT Sans Italic"), local("PTSans-Italic"), url(//fonts.gstatic.com/s/ptsans/v8/PIPMHY90P7jtyjpXuZ2cLKCWcynf_cDxXwCLxiixG1c.ttf) format("truetype"); }
 @font-face {
   font-family: 'PT Sans';
   font-style: italic;
   font-weight: 700;
-  src: local("PT Sans Bold Italic"), local("PTSans-BoldItalic"), url(http://fonts.gstatic.com/s/ptsans/v8/lILlYDvubYemzYzN7GbLkInF5uFdDttMLvmWuJdhhgs.ttf) format("truetype"); }
+  src: local("PT Sans Bold Italic"), local("PTSans-BoldItalic"), url(//fonts.gstatic.com/s/ptsans/v8/lILlYDvubYemzYzN7GbLkInF5uFdDttMLvmWuJdhhgs.ttf) format("truetype"); }
 @font-face {
   font-family: 'Antic Slab';
   font-style: normal;
   font-weight: 400;
-  src: local("Antic Slab"), local("AnticSlab-Regular"), url(http://fonts.gstatic.com/s/anticslab/v4/8c9q46CAcsp9TiRX9KLgZC3USBnSvpkopQaUR-2r7iU.ttf) format("truetype"); }
+  src: local("Antic Slab"), local("AnticSlab-Regular"), url(//fonts.gstatic.com/s/anticslab/v4/8c9q46CAcsp9TiRX9KLgZC3USBnSvpkopQaUR-2r7iU.ttf) format("truetype"); }
 #wrapper .header-social {
   background-color: #083659; }
 
