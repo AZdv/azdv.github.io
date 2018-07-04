@@ -21,5 +21,18 @@
 				});
 			}
 		},
+		error: function(d, q, o) {
+			submitFunc($('#contact_form'), $('.form-sent'));
+		},
+		success: function(d, q, o) {
+			submitFunc($('#contact_form'), $('.form-sent'));
+		}
 	})
+	var submitFunc = function(contactForm, msg) {
+		contactForm.clearForm();
+		msg.show();
+		setTimeout(function() {
+			window.location.reload(false);
+		}, 3000)
+	}
 })(jQuery);
