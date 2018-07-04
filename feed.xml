@@ -3,13 +3,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link href="http://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2017-10-27T10:50:42+01:00</updated>
+  <updated>2018-07-04T12:53:50+02:00</updated>
   <id>http://azdv.co/</id>
 
   
 
   
-    <subtitle>We build World Class Solutions using NodeJS, WordPress, Meteor, SailsJS &amp; Yii, we make impossible projects up and running.
+    <subtitle>We consult on Crypto &amp; Blockchain technologies, do Crypto Technical due diligence, and build World Class Solutions using NodeJS, Serverless, Lambda, Meteor, SailsJS. We make impossible projects up and running.
 </subtitle>
   
 
@@ -19,9 +19,9 @@
     <entry>
       <title>Welcome to AZdev Blog!</title>
       <link href="http://azdv.co/2017/10/welcome-to-azdev-blog/" rel="alternate" type="text/html" title="Welcome to AZdev Blog!" />
-      <published>2017-10-23T00:00:00+01:00</published>
+      <published>2017-10-23T00:00:00+02:00</published>
         
-        <updated>2017-10-23T00:00:00+01:00</updated>
+        <updated>2017-10-23T00:00:00+02:00</updated>
       
 
       <id>http://azdv.co/2017/10/welcome-to-azdev-blog</id>

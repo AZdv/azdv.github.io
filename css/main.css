@@ -1314,7 +1314,8 @@ h1.what_we_do {
 
 #mobile-nav {
   list-style: none;
-  padding-left: 0; }
+  padding-left: 0;
+  display: none; }
 
 .slidenswap-imageframe {
   margin-top: -20px; }
@@ -1322,6 +1323,33 @@ h1.what_we_do {
 .pluginpacker-imageframe {
   margin-top: 10px;
   margin-bottom: 10px; }
+
+figcaption {
+  font-style: italic;
+  font-size: .7em;
+  color: #555; }
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.crypto-tech-check .content {
+  margin-bottom: 80px; }
+.crypto-tech-check .page-title-container.small {
+  height: 8px;
+  background-color: #3c5793; }
+.crypto-tech-check img {
+  margin-bottom: 20px; }
+
+.win-win-win {
+  list-style: none; }
+  .win-win-win li:before {
+    content: "+";
+    margin-right: 12px;
+    font-weight: bold; }
+  .win-win-win li {
+    margin-bottom: 20px; }
 
 .blog .post {
   margin-bottom: 20px; }
