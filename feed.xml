@@ -3,7 +3,7 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <link href="http://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2023-05-09T15:18:09-04:00</updated>
+  <updated>2023-05-09T15:51:26-04:00</updated>
   <id>http://azdv.co/</id>
 
   
@@ -28,11 +28,11 @@
       <id>http://azdv.co/2023/05/typescript-deep-dive</id>
       <content type="html" xml:base="http://azdv.co/2023/05/typescript-deep-dive/">&lt;p&gt;TypeScript, a statically-typed superset of JavaScript, has rapidly emerged as a popular choice for web development projects. Developers have embraced TypeScript for its scalability, maintainability, and the added safety provided by static typing. This article will delve into the history of TypeScript, its benefits over JavaScript, real-world applications, and the reasons behind its growing popularity in the web development landscape.&lt;/p&gt;
 
-&lt;h1 id=&quot;the-rise-of-typescript&quot;&gt;The Rise of TypeScript&lt;/h1&gt;
+&lt;h2 id=&quot;the-rise-of-typescript&quot;&gt;The Rise of TypeScript&lt;/h2&gt;
 
 &lt;p&gt;Created by Microsoft in 2012, TypeScript sought to address some of the challenges and limitations of JavaScript. As web applications grew increasingly complex, developers sought a language that provided more structure and safety than what JavaScript could offer. TypeScript extends JavaScript by adding optional static types, making it easier to catch errors early and streamline the development process. Over the years, TypeScript has gained a considerable following, with high-profile companies like Google, Airbnb, and Slack adopting it in their codebases.&lt;/p&gt;
 
-&lt;h1 id=&quot;typescript-vs-javascript-comparing-the-two-languages&quot;&gt;TypeScript vs. JavaScript: Comparing the Two Languages&lt;/h1&gt;
+&lt;h2 id=&quot;typescript-vs-javascript-comparing-the-two-languages&quot;&gt;TypeScript vs. JavaScript: Comparing the Two Languages&lt;/h2&gt;
 
 &lt;p&gt;While JavaScript has been the de facto language for web development for decades, TypeScript brings several advantages that have made it a compelling alternative for many developers.&lt;/p&gt;
 
@@ -43,7 +43,7 @@
   &lt;li&gt;&lt;strong&gt;Backward Compatibility&lt;/strong&gt;: TypeScript is a superset of JavaScript, meaning all valid JavaScript code is also valid TypeScript code. This backward compatibility allows developers to migrate their JavaScript projects incrementally, making the transition process more manageable.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;real-world-applications&quot;&gt;Real-World Applications&lt;/h1&gt;
+&lt;h2 id=&quot;real-world-applications&quot;&gt;Real-World Applications&lt;/h2&gt;
 
 &lt;p&gt;TypeScript has been adopted by a wide range of projects, from small startups to large enterprises. Notable examples of TypeScript usage include:&lt;/p&gt;
 
@@ -53,7 +53,7 @@
   &lt;li&gt;&lt;strong&gt;Slack&lt;/strong&gt;: The popular communication platform, Slack, uses TypeScript for various components of its web application, citing improved code quality and developer productivity as key benefits.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;why-typescript-is-gaining-popularity&quot;&gt;Why TypeScript is Gaining Popularity&lt;/h1&gt;
+&lt;h2 id=&quot;why-typescript-is-gaining-popularity&quot;&gt;Why TypeScript is Gaining Popularity&lt;/h2&gt;
 
 &lt;p&gt;Several factors have contributed to TypeScript’s increasing adoption in the web development community:&lt;/p&gt;
 
@@ -63,7 +63,7 @@
   &lt;li&gt;&lt;strong&gt;Evolving Web Development Landscape&lt;/strong&gt;: As web applications become more complex, the need for a language that can handle this complexity becomes more apparent. TypeScript’s type system, object-oriented features, and improved tooling make it well-suited to address these challenges.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;TypeScript has emerged as a powerful and increasingly popular alternative to JavaScript for web development. Its static typing system, enhanced object-oriented programming features, and improved tool&lt;/p&gt;
 </content>

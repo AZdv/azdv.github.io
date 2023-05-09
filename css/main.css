@@ -1397,7 +1397,12 @@ figcaption {
   #content.single-post h1 {
     font-size: 34px;
     color: #000;
-    margin-bottom: 40px; }
+    margin-bottom: 40px;
+    line-height: 40px; }
+  #content.single-post h2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'PT Sans'; }
   #content.single-post .post-body {
     color: #222;
     line-height: 34px;
