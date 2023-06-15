@@ -1355,9 +1355,6 @@ figcaption {
 
 .blog .post {
   margin-bottom: 20px; }
-  .blog .post.founders-blog .post-title a:before {
-    content: "Founder's Blog: ";
-    color: #999; }
   .blog .post .post-image-wrapper {
     float: left;
     margin-right: 24px;
