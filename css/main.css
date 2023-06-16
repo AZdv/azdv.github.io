@@ -83,7 +83,7 @@ form {
 
 .avada-row {
   margin: 0 auto;
-  max-width: 940px; }
+  max-width: 1440px; }
 
 .avada-row:after {
   content: "";
@@ -127,7 +127,7 @@ form {
 nav#nav,
 nav#sticky-nav {
   float: right;
-  font: 14px/16px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
+  font: 20px/22px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
   z-index: 99997; }
 
 #nav ul,
@@ -292,7 +292,7 @@ body #header-sticky.sticky-header .sticky-shadow .mobile-nav-holder {
   clear: both; }
 
 #main h2 {
-  font: 18px/20px 'MuseoSlab500Regular', arial, helvetica, sans-serif; }
+  font: 22px/24px 'MuseoSlab500Regular', arial, helvetica, sans-serif; }
 
 h2 {
   color: #333;
@@ -319,7 +319,7 @@ h2 {
 .page-title {
   height: 100%;
   overflow: hidden;
-  max-width: 940px;
+  max-width: 1440px;
   margin: 0 auto; }
 
 .page-title-wrapper {
@@ -511,7 +511,14 @@ h2 {
 .imageframe img {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  opacity: 0.6;
+  transition: opacity .5s ease-out;
+  -moz-transition: opacity .5s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out; }
+  .imageframe img:hover {
+    opacity: 1; }
 
 body:not(:-moz-handler-blocked) .avada-myaccount-data .addresses .title .edit {
   margin-top: 3px; }
@@ -1072,7 +1079,7 @@ span.form-control-wrap input {
   border-top-style: solid;
   padding: 35px 0 15px 0; }
   #things_we_do h1 {
-    font-size: 30px !important;
+    font-size: 40px !important;
     text-align: center;
     line-height: 25px; }
 
@@ -1134,8 +1141,8 @@ span.wpcf7-form-control-wrap input {
   display: block; }
 
 .first_company_img {
-  margin-top: 40px;
-  margin-bottom: 60px; }
+  margin-top: 20px;
+  margin-bottom: 30px; }
 
 #we_love {
   background-attachment: fixed;
@@ -1157,7 +1164,7 @@ span.wpcf7-form-control-wrap input {
   border-bottom: 0 none !important; }
   #we_love h1 {
     text-align: center;
-    font-size: 30px; }
+    font-size: 40px; }
   #we_love .sub-title {
     text-align: center;
     margin-top: -10px;
@@ -1241,6 +1248,12 @@ span.wpcf7-form-control-wrap input {
     #we_love .sprite-yii:hover {
       background-position: 0 -1326px; }
 
+.img-typescript {
+  opacity: 0.5;
+  cursor: pointer; }
+  .img-typescript:hover {
+    opacity: 1; }
+
 #header .logo {
   margin-top: 18px !important;
   margin-bottom: 11px !important; }
@@ -1296,7 +1309,7 @@ span.wpcf7-form-control-wrap input {
 
 h1.what_we_do {
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   line-height: 48px; }
 
 #rev_slider_1_1_wrapper {
