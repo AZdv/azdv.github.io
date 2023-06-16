@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="https://www.w3.org/2005/Atom">
-  <link href="http://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2023-06-15T12:35:21-04:00</updated>
-  <id>http://azdv.co/</id>
+  <link href="https://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://azdv.co/" rel="alternate" type="text/html" />
+  <updated>2023-06-16T09:35:33-04:00</updated>
+  <id>https://azdv.co/</id>
 
   
 
@@ -19,14 +19,14 @@
     <entry>
       <title>&lt;p&gt;Top 5 SEO Strategies for Hugo&lt;/p&gt;
 </title>
-      <link href="http://azdv.co/2023/05/hugo-seo/" rel="alternate" type="text/html" title="Top 5 SEO Strategies for Hugo" />
+      <link href="https://azdv.co/2023/05/hugo-seo/" rel="alternate" type="text/html" title="Top 5 SEO Strategies for Hugo" />
       <published>2023-05-31T00:00:00-04:00</published>
         
         <updated>2023-05-31T00:00:00-04:00</updated>
       
 
-      <id>http://azdv.co/2023/05/hugo-seo</id>
-      <content type="html" xml:base="http://azdv.co/2023/05/hugo-seo/">&lt;p&gt;Hugo, a static site generator written in Go, has been gaining popularity due to its speed, flexibility, and the security advantages of static websites. As more users adopt Hugo for creating websites and blogs, optimizing these sites for search engines becomes a critical task. This article explores the top five Search Engine Optimization (SEO) strategies specifically suited for Hugo-powered websites.&lt;/p&gt;
+      <id>https://azdv.co/2023/05/hugo-seo</id>
+      <content type="html" xml:base="https://azdv.co/2023/05/hugo-seo/">&lt;p&gt;Hugo, a static site generator written in Go, has been gaining popularity due to its speed, flexibility, and the security advantages of static websites. As more users adopt Hugo for creating websites and blogs, optimizing these sites for search engines becomes a critical task. This article explores the top five Search Engine Optimization (SEO) strategies specifically suited for Hugo-powered websites.&lt;/p&gt;
 
 &lt;h2 id=&quot;leverage-hugos-built-in-seo-features&quot;&gt;Leverage Hugo’s Built-In SEO Features&lt;/h2&gt;
 
@@ -52,6 +52,9 @@
 
 &lt;p&gt;Hugo is a powerful tool for building fast, secure websites, and with the right SEO strategies, your Hugo-powered site can achieve excellent visibility on search engines. By leveraging Hugo’s built-in SEO features, choosing SEO-friendly themes, optimizing your content, implementing structured data, and focusing on website speed, you can create a Hugo website that not only looks great but also performs excellently in search rankings.&lt;/p&gt;
 </content>
+      
+        <image>https://azdv.co/img/posts/2023/05/seo_improvement.png</image>
+      
 
       
         <author>
@@ -79,14 +82,14 @@
     <entry>
       <title>&lt;p&gt;Is WordPress Still the King of Blog Systems?&lt;/p&gt;
 </title>
-      <link href="http://azdv.co/2023/05/wordpress-and-alternatives/" rel="alternate" type="text/html" title="Is WordPress Still the King of Blog Systems?" />
+      <link href="https://azdv.co/2023/05/wordpress-and-alternatives/" rel="alternate" type="text/html" title="Is WordPress Still the King of Blog Systems?" />
       <published>2023-05-23T00:00:00-04:00</published>
         
         <updated>2023-05-23T00:00:00-04:00</updated>
       
 
-      <id>http://azdv.co/2023/05/wordpress-and-alternatives</id>
-      <content type="html" xml:base="http://azdv.co/2023/05/wordpress-and-alternatives/">&lt;p&gt;For years, WordPress has reigned supreme as the go-to platform for bloggers and website owners. It has provided users with a powerful content management system (CMS) that is both flexible and user-friendly. However, with the rise of new blog platforms and the ever-evolving landscape of web development, it’s worth asking: is WordPress still the king of blog systems? In this article, we will delve into the current state of WordPress and assess its position among other popular blog platforms.&lt;/p&gt;
+      <id>https://azdv.co/2023/05/wordpress-and-alternatives</id>
+      <content type="html" xml:base="https://azdv.co/2023/05/wordpress-and-alternatives/">&lt;p&gt;For years, WordPress has reigned supreme as the go-to platform for bloggers and website owners. It has provided users with a powerful content management system (CMS) that is both flexible and user-friendly. However, with the rise of new blog platforms and the ever-evolving landscape of web development, it’s worth asking: is WordPress still the king of blog systems? In this article, we will delve into the current state of WordPress and assess its position among other popular blog platforms.&lt;/p&gt;
 
 &lt;h2 id=&quot;wordpress-a-brief-overview&quot;&gt;WordPress: A Brief Overview&lt;/h2&gt;
 
@@ -124,6 +127,9 @@
 
 &lt;p&gt;While competition has emerged, WordPress remains a dominant force in the blogging and website-building space. Its flexibility, customization options, and user-friendly interface have allowed it to maintain its popularity among users. However, the rise of alternative platforms has provided users with more options, each with its unique strengths and target audience.&lt;/p&gt;
 </content>
+      
+        <image>https://azdv.co/img/posts/2023/05/wp-crown.png</image>
+      
 
       
         <author>
@@ -151,14 +157,14 @@
     <entry>
       <title>&lt;p&gt;From JavaScript to TypeScript: Essential Tips and Resources for a Smooth Transition&lt;/p&gt;
 </title>
-      <link href="http://azdv.co/2023/05/js-to-typescript/" rel="alternate" type="text/html" title="From JavaScript to TypeScript: Essential Tips and Resources for a Smooth Transition" />
+      <link href="https://azdv.co/2023/05/js-to-typescript/" rel="alternate" type="text/html" title="From JavaScript to TypeScript: Essential Tips and Resources for a Smooth Transition" />
       <published>2023-05-16T00:00:00-04:00</published>
         
         <updated>2023-05-16T00:00:00-04:00</updated>
       
 
-      <id>http://azdv.co/2023/05/js-to-typescript</id>
-      <content type="html" xml:base="http://azdv.co/2023/05/js-to-typescript/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+      <id>https://azdv.co/2023/05/js-to-typescript</id>
+      <content type="html" xml:base="https://azdv.co/2023/05/js-to-typescript/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;As TypeScript gains popularity in the web development community, many JavaScript developers are considering making the switch to TypeScript for its added safety, scalability, and maintainability. Transitioning from JavaScript to TypeScript can be a relatively smooth process, but it helps to be prepared. This article aims to provide essential tips and resources for JavaScript developers looking to make the leap to TypeScript, ensuring a seamless and efficient transition.&lt;/p&gt;
 
@@ -209,6 +215,9 @@
   &lt;li&gt;TypeScript Community: Joining the TypeScript community on platforms like Stack Overflow, GitHub, and Reddit can provide valuable&lt;/li&gt;
 &lt;/ul&gt;
 </content>
+      
+        <image>https://azdv.co/img/posts/2023/05/js-to-ts.png</image>
+      
 
       
         <author>
@@ -234,14 +243,14 @@
     <entry>
       <title>&lt;p&gt;How TypeScript is Revolutionizing Web Development&lt;/p&gt;
 </title>
-      <link href="http://azdv.co/2023/05/typescript-deep-dive/" rel="alternate" type="text/html" title="How TypeScript is Revolutionizing Web Development" />
+      <link href="https://azdv.co/2023/05/typescript-deep-dive/" rel="alternate" type="text/html" title="How TypeScript is Revolutionizing Web Development" />
       <published>2023-05-09T00:00:00-04:00</published>
         
         <updated>2023-05-09T00:00:00-04:00</updated>
       
 
-      <id>http://azdv.co/2023/05/typescript-deep-dive</id>
-      <content type="html" xml:base="http://azdv.co/2023/05/typescript-deep-dive/">&lt;p&gt;TypeScript, a statically-typed superset of JavaScript, has rapidly emerged as a popular choice for web development projects. Developers have embraced TypeScript for its scalability, maintainability, and the added safety provided by static typing. This article will delve into the history of TypeScript, its benefits over JavaScript, real-world applications, and the reasons behind its growing popularity in the web development landscape.&lt;/p&gt;
+      <id>https://azdv.co/2023/05/typescript-deep-dive</id>
+      <content type="html" xml:base="https://azdv.co/2023/05/typescript-deep-dive/">&lt;p&gt;TypeScript, a statically-typed superset of JavaScript, has rapidly emerged as a popular choice for web development projects. Developers have embraced TypeScript for its scalability, maintainability, and the added safety provided by static typing. This article will delve into the history of TypeScript, its benefits over JavaScript, real-world applications, and the reasons behind its growing popularity in the web development landscape.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-rise-of-typescript&quot;&gt;The Rise of TypeScript&lt;/h2&gt;
 
@@ -282,6 +291,9 @@
 
 &lt;p&gt;TypeScript has emerged as a powerful and increasingly popular alternative to JavaScript for web development. Its static typing system, enhanced object-oriented programming features, and improved tool&lt;/p&gt;
 </content>
+      
+        <image>https://azdv.co/img/posts/2023/05/typescript-logo.png</image>
+      
 
       
         <author>
@@ -307,16 +319,19 @@
     <entry>
       <title>&lt;p&gt;Welcome to AZdev Blog!&lt;/p&gt;
 </title>
-      <link href="http://azdv.co/2017/10/welcome-to-azdev-blog/" rel="alternate" type="text/html" title="Welcome to AZdev Blog!" />
+      <link href="https://azdv.co/2017/10/welcome-to-azdev-blog/" rel="alternate" type="text/html" title="Welcome to AZdev Blog!" />
       <published>2017-10-23T00:00:00-04:00</published>
         
         <updated>2017-10-23T00:00:00-04:00</updated>
       
 
-      <id>http://azdv.co/2017/10/welcome-to-azdev-blog</id>
-      <content type="html" xml:base="http://azdv.co/2017/10/welcome-to-azdev-blog/">&lt;p&gt;Hey everyone, this is the first post of AZdev’s Blog! &lt;br /&gt;
+      <id>https://azdv.co/2017/10/welcome-to-azdev-blog</id>
+      <content type="html" xml:base="https://azdv.co/2017/10/welcome-to-azdev-blog/">&lt;p&gt;Hey everyone, this is the first post of AZdev’s Blog! &lt;br /&gt;
 And then 0, became 1. &lt;br /&gt;&lt;/p&gt;
 </content>
+      
+        <image>https://azdv.co/img/posts/2017/10/welcome-boat.jpg</image>
+      
 
       
         <author>
