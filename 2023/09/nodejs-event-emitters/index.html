@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M3BKNR4');</script>
+	<!-- End Google Tag Manager -->
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<title>AZdev - Serverless, AI, and Blockchain consulting - Event-driven Programming in Node.js: Mastering the Art of Emitters</title>
+	<meta name="description" content="Node.js has made a significant impact on the way we build web servers and create networked technology. At its heart, Node.js is event-driven and uses a non-b...">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+	<meta content="/img/logo.png">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png"/>
+	<link href='/css/main.css' media='all' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic:latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Antic+Slab:400,400italic,700,700italic:latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>!window.jQuery && document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+	<script src='/js/jquery.themepunch.tools.min.js' type='text/javascript'></script>
+	<script src='/js/jquery.themepunch.revolution.min.js' type='text/javascript'></script>
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+</head>
+
+  <body class="home page no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar mobile-menu-design-classic ">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3BKNR4"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="wrapper">
+      <div class="header-wrapper">
+    <div class="header-v3">
+      <div class="header-social">
+        <div class="avada-row">
+          <div class="alignleft">
+            <div class="header-info">
+              <a href="mailto:hi@azdv.co">hi@azdv.co</a>
+            </div>
+          </div>
+
+          <div class="alignright">
+            <div class="fusion-social-links-header">
+  <div class="fusion-social-networks">
+    <a class="fusion-social-network-icon fusionicon-github" data-placement="bottom" data-title="Github" data-toggle="tooltip" href="https://github.com/AZdv" target="_blank"></a>
+    <a class="fusion-social-network-icon fusionicon-facebook" data-placement="bottom" data-title="Facebook" data-toggle="tooltip" href="https://www.facebook.com/AZdvCo" target="_blank"></a>
+    <a class="fusion-social-network-icon fusionicon-twitter" data-placement="bottom" data-title="Twitter" data-toggle="tooltip" href="https://twitter.com/AZdvCo" target="_blank"></a>
+    <a class="fusion-social-network-icon fusionicon-email" data-placement="bottom" data-title="Email" data-toggle="tooltip" href="mailto:hi@azdv.co" target="_blank"></a>
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+
+      <header id="header">
+        <div class="avada-row" style="padding-top:0px;padding-bottom:0px;">
+          <div class="logo">
+            <a href="/"><img alt="AZdev" class="normal_logo" src="/img/logo.png" width="193" height="49"></a>
+          </div>
+
+          <nav class="nav-holder" id="nav">
+            <ul class="navigation menu fusion-navbar-nav">
+              <li class="menu-item ">
+                <a href="/">Home</a>
+              </li>
+              <li class="menu-item ">
+                <a href="/blog">Blog</a>
+              </li>
+              <li class="menu-item ">
+                <a href="/contact">Contact</a>
+              </li>
+            </ul>
+          </nav>
+
+          <div class="mobile-nav-holder main-menu"></div>
+        </div>
+      </header>
+    </div>
+
+    <div class="init-sticky-header"></div>
+  </div>
+
+  <header class="sticky-header" id="header-sticky">
+    <div class="sticky-shadow">
+      <div class="avada-row">
+        <div class="logo">
+          <a href="/"><img alt="AZdev" class="normal_logo" data-max-width="" src="/img/logo.png" width="193" height="49"></a>
+        </div>
+
+        <nav class="nav-holder" id="sticky-nav">
+          <ul class="navigation menu fusion-navbar-nav current-menu-item">
+            <li class="menu-item ">
+              <a href="/">Home</a>
+            </li>
+
+            <li class="menu-item ">
+              <a href="/blog">Blog</a>
+            </li>
+
+            <li class="menu-item ">
+              <a href="/contact">Contact</a>
+            </li>
+
+          </ul>
+        </nav>
+
+        <div class="mobile-nav-holder"></div>
+      </div>
+    </div>
+  </header>
+
+      <div id="page-content">
+        <div class="" id="wrapper">
+    <div id="sliders-container"></div>
+    <div class="page-title-container small"></div>
+    <p></p>
+    <div class="clearfix" id="main" style="">
+        <div class="avada-row" style="">
+            <div id="content" class="blog single-post">
+                <div class="page">
+                  <h1>Event-driven Programming in Node.js: Mastering the Art of Emitters</h1>
+                  <div class="post-body">
+                    
+                      <div id="post-head-image" style="text-align: center;"><img src="http://127.0.0.1:4001/img/posts/2023/09/nodejs-emitters.png" style="max-width: 600px;" /></div>
+                    
+                    <p>Node.js has made a significant impact on the way we build web servers and create networked technology. At its heart, Node.js is event-driven and uses a non-blocking I/O model, which makes it light and efficient. One crucial aspect of this model is understanding and effectively using Event Emitters. This article delves into event-driven programming in Node.js and explores the power of Event Emitters.</p>
+
+<h2 id="understanding-event-driven-programming">Understanding Event-Driven Programming</h2>
+
+<p>Event-driven programming is a programming paradigm in which the flow of the program is determined by events—such as user actions, sensor outputs, or messages from other programs. Node.js has a built-in module called <code class="highlighter-rouge">events</code> where you can create-, fire-, and listen for- your own events.</p>
+
+<h2 id="key-features-of-nodejs-event-emitters">Key Features of Node.js Event Emitters</h2>
+
+<h3 id="1-asynchronous-programming">1. Asynchronous Programming</h3>
+
+<p>In Node.js, Event Emitters enable asynchronous event-driven programming. This means that your program can continue to run as it waits for an event to occur, ensuring non-blocking operations.</p>
+
+<h3 id="2-event-handling">2. Event Handling</h3>
+
+<p>Event Emitters can handle events with listener functions. When an event is fired, the listener functions are called in the order they were added.</p>
+
+<h3 id="3-multiple-listeners">3. Multiple Listeners</h3>
+
+<p>You can add multiple listener functions to an event, and they will be executed synchronously, in the order in which they were registered.</p>
+
+<h2 id="mastering-the-art-of-emitters-in-nodejs">Mastering the Art of Emitters in Node.js</h2>
+
+<h3 id="1-creating-and-emitting-events">1. Creating and Emitting Events</h3>
+
+<p>To use Event Emitters, you’ll first need to import the <code class="highlighter-rouge">events</code> module. From there, you can create a new instance of the <code class="highlighter-rouge">EventEmitter</code> class and use the <code class="highlighter-rouge">emit</code> method to fire an event.</p>
+
+<h3 id="2-listening-for-events">2. Listening for Events</h3>
+
+<p>Once you’ve emitted an event, you’ll want to listen for it. You can do this using the <code class="highlighter-rouge">on</code> method of your <code class="highlighter-rouge">EventEmitter</code> instance.</p>
+
+<h3 id="3-handling-errors">3. Handling Errors</h3>
+
+<p>It’s crucial to handle errors when dealing with Event Emitters. The convention is to emit an <code class="highlighter-rouge">error</code> event whenever an error occurs. If this event is not handled, the Node.js process will exit.</p>
+
+<h3 id="4-removing-listeners">4. Removing Listeners</h3>
+
+<p>The EventEmitter class also provides the <code class="highlighter-rouge">removeListener</code> and <code class="highlighter-rouge">removeAllListeners</code> methods to remove listeners from an event. This is particularly useful for cleanup during the teardown of your application.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Event-driven programming, underpinned by Event Emitters, is at the heart of Node.js, and mastering it is crucial for writing efficient Node.js applications. It allows for a more responsive, non-blocking application flow, improving your app’s performance and user experience. As you continue your Node.js journey, a deep understanding of Event Emitters will prove to be an invaluable tool in your developer toolkit.</p>
+
+                  </div>
+                    <div class="addthis-wrapper"><div class="addthis_inline_share_toolbox"></div></div>
+  <div class="navigation">
+    
+      <div class="previous">‹ <a href="/2023/09/graphql/" rel="prev">Why GraphQL is the New Gateway to APIs: A Shift from REST Paradigm</a></div>
+    
+    
+      <div class="next"><a href="/2023/10/ai-web-dev/" rel="next">The Dawn of AI in Web Development: Harnessing the Power of Large Language Models</a> ›</div>
+    
+  </div>
+  <div class="post-tags">Tagged with <span><a class='tag' href='/tag/emitters/'>emitters</a>, <a class='tag' href='/tag/nodejs/'>nodejs</a></span></div>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59ef43a4f61e678e" async="async"></script> 
+  
+    <div id="disqus_thread"></div>
+    <script>!function(){var e=document,t=e.createElement("script");t.src="//azdev.disqus.com/embed.js",t.setAttribute("data-timestamp",+new Date),(e.head||e.body).appendChild(t)}();</script>
+  
+                </div>
+            </div>
+        </div>
+    </div>
+<footer class="footer-area"></footer>
+</div><!-- wrapper -->
+<script src='//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js' type='text/javascript'></script>
+<script>!window.jQuery('form').ajaxForm && document.write('<script src="js/jquery.form.js"><\/script>')</script>
+<script src='/js/modernizr.min.js' type='text/javascript'></script>
+<script src='/js/contact.js' type='text/javascript'></script>
+<script src='/js/main.js' type='text/javascript'></script>
+
+      </div>
+      <footer class="site-footer">
+  <div class="fusion-section-separator section-separator">
+    <div class="divider-candy top"></div>
+  </div>
+
+  <div class="fusion-fullwidth fullwidth-box contact-us-footer">
+    <div class="avada-row">
+      <div class="contact-us-footer-inner">
+        <span class="hire-us">hire us <i class=
+        "fa fa-long-arrow-right"></i>&nbsp;</span><a href=
+        "mailto:hi@azdv.co">hi@azdv.co</a>
+        <div class="fusion-social-links-header">
+  <div class="fusion-social-networks">
+    <a class="fusion-social-network-icon fusionicon-github" data-placement="bottom" data-title="Github" data-toggle="tooltip" href="https://github.com/AZdv" target="_blank"></a>
+    <a class="fusion-social-network-icon fusionicon-facebook" data-placement="bottom" data-title="Facebook" data-toggle="tooltip" href="https://www.facebook.com/AZdvCo" target="_blank"></a>
+    <a class="fusion-social-network-icon fusionicon-twitter" data-placement="bottom" data-title="Twitter" data-toggle="tooltip" href="https://twitter.com/AZdvCo" target="_blank"></a>
+    <a class="fusion-social-network-icon fusionicon-email" data-placement="bottom" data-title="Email" data-toggle="tooltip" href="mailto:hi@azdv.co" target="_blank"></a>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+    
+
+  </body>
+
+</html>
