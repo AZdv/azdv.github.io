@@ -3,7 +3,7 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <link href="https://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2023-12-20T15:09:43+01:00</updated>
+  <updated>2023-12-20T15:14:06+01:00</updated>
   <id>https://azdv.co/</id>
 
   
@@ -174,7 +174,7 @@
 &lt;p&gt;The holiday season is the perfect time for web developers to get creative and festive with their projects. With these simple yet effective code snippets, you can spread the Christmas cheer across your web applications, adding a touch of joy and wonder that users will surely appreciate during this magical season. Whether it’s through the merry chimes of jingle bells or the playful dance of a CSS-animated snowman, these coding touches are sure to bring smiles and a festive atmosphere to any digital experience. Happy coding and happy holidays from the team at AZdev!&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/12/snowman-dev.png</image>
+        <image>https://azdv.co/img/posts/2023/12/snowman-dev.png</image>
       
 
       
@@ -349,7 +349,7 @@
 &lt;p&gt;Golang’s simplicity, coupled with its performance and concurrency features, makes it an increasingly popular choice for web development. Whether it’s creating a basic web server, handling multiple requests concurrently, generating dynamic web pages, or building RESTful APIs, Go’s robust standard library and&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/11/golang-gopher.png</image>
+        <image>https://azdv.co/img/posts/2023/11/golang-gopher.png</image>
       
 
       
@@ -422,7 +422,7 @@
 &lt;p&gt;The emergence of Large Language Models is a milestone in the journey of AI and its applications in web development. It’s not just about automating tasks; it’s about augmenting human capabilities and creating a synergy between developers and AI that leads to unparalleled efficiency and innovation. As we continue to explore the potential of LLMs, one thing is clear: the future of web development is bright, and it’s being rewritten by the power of AI.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/10/ai-web-dev.png</image>
+        <image>https://azdv.co/img/posts/2023/10/ai-web-dev.png</image>
       
 
       
@@ -501,7 +501,7 @@
 &lt;p&gt;Event-driven programming, underpinned by Event Emitters, is at the heart of Node.js, and mastering it is crucial for writing efficient Node.js applications. It allows for a more responsive, non-blocking application flow, improving your app’s performance and user experience. As you continue your Node.js journey, a deep understanding of Event Emitters will prove to be an invaluable tool in your developer toolkit.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/09/nodejs-emitters.png</image>
+        <image>https://azdv.co/img/posts/2023/09/nodejs-emitters.png</image>
       
 
       
@@ -578,7 +578,7 @@
 &lt;p&gt;GraphQL is not just a new gateway to APIs—it’s a powerful shift from the REST paradigm, providing a more efficient, robust, and flexible alternative. By enabling precise data fetching, single request-response cycles, and rapid frontend development, GraphQL is changing the API game. As we move forward, GraphQL is poised to become an even more essential tool in a developer’s toolkit.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/09/graphql.png</image>
+        <image>https://azdv.co/img/posts/2023/09/graphql.png</image>
       
 
       
@@ -657,7 +657,7 @@
 &lt;p&gt;The Composition API in Vue.js is a powerful addition that offers a new way to structure your Vue applications. By enabling better logic reuse and organization, improved TypeScript support, and clearer source code, it helps make your Vue applications more maintainable and easier to understand. While it might take some getting used to, the Composition API is a significant step forward for Vue.js and a game-changer for Vue developers.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/08/vuejs.png</image>
+        <image>https://azdv.co/img/posts/2023/08/vuejs.png</image>
       
 
       
@@ -742,7 +742,7 @@
 &lt;p&gt;Socket.IO has established itself as a powerful tool for developing real-time applications. By offering real-time, bidirectional, and event-based communication, it has effectively bridged the communication gap in web development. Whether you’re building a chat app, a real-time analytics dashboard, a collaborative tool, or a real-time game, Socket.IO offers a robust and reliable solution for your real-time communication needs.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/08/socketio.png</image>
+        <image>https://azdv.co/img/posts/2023/08/socketio.png</image>
       
 
       
@@ -817,7 +817,7 @@
 &lt;p&gt;Deno brings several exciting features and improvements over Node.js, particularly in terms of security, TypeScript support, and modern JavaScript features. While it’s still early days for Deno, its potential is undeniable. It may well be the next big thing in server-side JavaScript, but whether it will replace Node.js remains to be seen. What’s certain is that it’s an exciting time to be a JavaScript developer, with an ever-growing array of tools at our disposal.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/08/deno.png</image>
+        <image>https://azdv.co/img/posts/2023/08/deno.png</image>
       
 
       
@@ -892,7 +892,7 @@
 &lt;p&gt;As more developers and organizations embrace Next.js, we can expect to see further improvements and innovations in the SSR landscape. The future of server-side rendered apps is here, and it’s powered by Next.js.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/07/ssr-rendering.png</image>
+        <image>https://azdv.co/img/posts/2023/07/ssr-rendering.png</image>
       
 
       
@@ -967,7 +967,7 @@
 &lt;p&gt;Transitioning to a microservices architecture with Node.js can bring significant benefits in terms of scalability, flexibility, and resilience. Although the process involves careful planning and execution, the long-term benefits often justify the effort. With the right approach, you can successfully break down your monolithic application into efficient, manageable microservices.&lt;/p&gt;
 </content>
       
-        <image>http://127.0.0.1:4001/img/posts/2023/07/monolith-microservices.png</image>
+        <image>https://azdv.co/img/posts/2023/07/monolith-microservices.png</image>
       
 
       
