@@ -3,7 +3,7 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <link href="https://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2023-12-20T15:14:06+01:00</updated>
+  <updated>2024-01-12T13:11:28+01:00</updated>
   <id>https://azdv.co/</id>
 
   
@@ -15,6 +15,45 @@
 
   
 
+  
+    <entry>
+      <title>&lt;p&gt;Harnessing the Power of Golang for Web Development&lt;/p&gt;
+</title>
+      <link href="https://azdv.co/2024/01/time-date-js/" rel="alternate" type="text/html" title="Harnessing the Power of Golang for Web Development" />
+      <published>2024-01-03T00:00:00+01:00</published>
+        
+        <updated>2024-01-03T00:00:00+01:00</updated>
+      
+
+      <id>https://azdv.co/2024/01/time-date-js</id>
+      <content type="html" xml:base="https://azdv.co/2024/01/time-date-js/">
+</content>
+      
+        <image>https://azdv.co/img/posts/2023/11/golang-gopher.png</image>
+      
+
+      
+        <author>
+          
+            <name>AZdev</name>
+          
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="ai" />
+      
+        <category term="llm" />
+      
+
+      
+        <summary></summary>
+      
+    </entry>
   
     <entry>
       <title>&lt;p&gt;Coding the Spirit of Christmas: Web Development Festivities&lt;/p&gt;
@@ -915,83 +954,6 @@
 
       
         <summary>In the world of web development, the battle between server-side rendering (SSR) and client-side rendering has been ongoing. However, frameworks like Next.js are tipping the scales in favor of SSR with their robust features and improved performance. By pushing the boundaries of what SSR can do, Next.js has become a frontrunner in modern web development, shaping the future of SSR apps.</summary>
-      
-    </entry>
-  
-    <entry>
-      <title>&lt;p&gt;Breaking Down Monoliths: Transitioning to Microservices with Node.js&lt;/p&gt;
-</title>
-      <link href="https://azdv.co/2023/07/nodejs-monolith-microservices/" rel="alternate" type="text/html" title="Breaking Down Monoliths: Transitioning to Microservices with Node.js" />
-      <published>2023-07-05T00:00:00+02:00</published>
-        
-        <updated>2023-07-05T00:00:00+02:00</updated>
-      
-
-      <id>https://azdv.co/2023/07/nodejs-monolith-microservices</id>
-      <content type="html" xml:base="https://azdv.co/2023/07/nodejs-monolith-microservices/">&lt;p&gt;In the evolving landscape of software architecture, microservices have emerged as a robust alternative to traditional monolithic architecture. When paired with Node.js, the JavaScript runtime built on Chrome’s V8 engine, the transition to microservices can become an efficient process. This article explores the key steps involved in transitioning from a monolithic system to a microservices architecture using Node.js.&lt;/p&gt;
-
-&lt;h2 id=&quot;understanding-microservices-and-monolithic-architecture&quot;&gt;Understanding Microservices and Monolithic Architecture&lt;/h2&gt;
-
-&lt;p&gt;A monolithic application is a single-tiered software application in which the user interface and data access code are combined into a single program. However, as an application grows, a monolithic architecture can become difficult to maintain and scale.&lt;/p&gt;
-
-&lt;p&gt;Microservices, on the other hand, breaks down an application into smaller, loosely coupled services. Each service represents a specific business functionality and can be developed, deployed, and scaled independently. This allows for better flexibility, scalability, and resilience.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-nodejs-for-microservices&quot;&gt;Why Node.js for Microservices?&lt;/h2&gt;
-
-&lt;p&gt;Node.js’s lightweight, efficient, and scalable nature makes it an excellent fit for microservices architecture. Its non-blocking I/O model is well-suited for handling multiple service requests concurrently, a common scenario in microservices-based applications.&lt;/p&gt;
-
-&lt;h2 id=&quot;transitioning-to-microservices-with-nodejs&quot;&gt;Transitioning to Microservices with Node.js&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-define-your-bounded-contexts&quot;&gt;1. Define Your Bounded Contexts&lt;/h3&gt;
-
-&lt;p&gt;The first step in breaking down a monolith into microservices is to define your bounded contexts, which are specific responsibilities or functionalities within your application. Each bounded context will translate into a separate microservice in your new architecture.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-implement-your-services&quot;&gt;2. Implement Your Services&lt;/h3&gt;
-
-&lt;p&gt;Once the bounded contexts are defined, start implementing the microservices. With Node.js, you can leverage various frameworks like Express.js or Koa.js to build your services. Remember, each microservice should have its own database to ensure data independence.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-create-apis&quot;&gt;3. Create APIs&lt;/h3&gt;
-
-&lt;p&gt;Create APIs for interaction between your services. Node.js can efficiently handle these inter-service communications with libraries like Axios or node-fetch for making HTTP requests.&lt;/p&gt;
-
-&lt;h3 id=&quot;4-decouple-your-services&quot;&gt;4. Decouple Your Services&lt;/h3&gt;
-
-&lt;p&gt;Ensure that your services are loosely coupled and can operate independently. Node.js’s event-driven nature can be beneficial here, allowing you to design your services to react to events rather than being tightly coupled with direct calls.&lt;/p&gt;
-
-&lt;h3 id=&quot;5-test-and-deploy&quot;&gt;5. Test and Deploy&lt;/h3&gt;
-
-&lt;p&gt;Test each service thoroughly before deploying. Automated testing libraries like Mocha or Jest can be useful in this regard. You can then deploy each service independently, taking advantage of the scalability benefits of the microservices architecture.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Transitioning to a microservices architecture with Node.js can bring significant benefits in terms of scalability, flexibility, and resilience. Although the process involves careful planning and execution, the long-term benefits often justify the effort. With the right approach, you can successfully break down your monolithic application into efficient, manageable microservices.&lt;/p&gt;
-</content>
-      
-        <image>https://azdv.co/img/posts/2023/07/monolith-microservices.png</image>
-      
-
-      
-        <author>
-          
-            <name>AZdev</name>
-          
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="microservices" />
-      
-        <category term="monolith" />
-      
-        <category term="nodejs" />
-      
-
-      
-        <summary>In the evolving landscape of software architecture, microservices have emerged as a robust alternative to traditional monolithic architecture. When paired with Node.js, the JavaScript runtime built on Chrome’s V8 engine, the transition to microservices can become an efficient process. This article explores the key steps involved in transitioning from a monolithic system to a microservices architecture using Node.js.</summary>
       
     </entry>
   

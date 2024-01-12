@@ -816,7 +816,7 @@ body {
 .navigation,
 .post-content h1,
 #main h2 {
-  font-family: 'Antic Slab', Arial, Helvetica, sans-serif; }
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif; }
 
 #main {
   padding: 0; }
@@ -930,12 +930,12 @@ body {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif; }
 
 #nav, #sticky-nav, .navigation, .side-nav li a, .post-content h1 {
-  font-family: 'Antic Slab', Arial, Helvetica, sans-serif; }
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif; }
 
 #main {
   padding: 0; }
   #main h2 {
-    font-family: 'Antic Slab', Arial, Helvetica, sans-serif; }
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif; }
 
 .contact-page .footer-area {
   background-image: url(../img/page_title_bg.png);
@@ -1062,7 +1062,7 @@ span.form-control-wrap input {
   background-color: rgba(0, 0, 0, 0.6);
   font-family: PTSansRegular,Arial,Helvetica,sans-serif; }
 
-#things_we_do {
+#things-we-do {
   background-attachment: fixed;
   background-color: #f8f8f8;
   background-image: url(../img/bkgd_bw2.jpg);
@@ -1078,10 +1078,29 @@ span.form-control-wrap input {
   border-bottom-style: solid;
   border-top-style: solid;
   padding: 35px 0 15px 0; }
-  #things_we_do h1 {
+  #things-we-do h1 {
     font-size: 40px !important;
     text-align: center;
     line-height: 25px; }
+  #things-we-do img {
+    opacity: 0.6;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    filter: grayscale(1); }
+    #things-we-do img:hover {
+      opacity: 1;
+      filter: grayscale(0);
+      transform: scale(1.1); }
+  #things-we-do #we-work-with .imageframe-align-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center; }
+    #things-we-do #we-work-with .imageframe-align-center div {
+      width: 33%; }
+      #things-we-do #we-work-with .imageframe-align-center div img {
+        max-height: 60px;
+        margin-bottom: 40px; }
 
 .fusion-section-separator {
   border: 2px solid #333333; }
@@ -1137,116 +1156,22 @@ span.form-control-wrap input {
 span.wpcf7-form-control-wrap input {
   float: none !important; }
 
-#things_we_do .imageframe {
-  display: block; }
-
 .first_company_img {
   margin-top: 20px;
   margin-bottom: 30px; }
 
-#we_love {
-  background-attachment: fixed;
-  background-position: left top;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  border-color: #e5e4e4;
-  border-bottom-width: 1px;
-  border-top-width: 1px;
-  border-bottom-style: solid;
-  border-top-style: solid;
-  padding-bottom: 45px;
-  padding-left: 0px;
-  padding-right: 0px;
-  padding-top: 45px;
-  border-bottom: 0 none !important; }
-  #we_love h1 {
-    text-align: center;
-    font-size: 40px; }
-  #we_love .sub-title {
-    text-align: center;
-    margin-top: -10px;
-    font-size: 17px !important;
-    line-height: 24px !important; }
-  #we_love .sprite {
-    background: url(../img/we_love.png) no-repeat top left;
-    margin-top: 20px;
-    cursor: pointer;
-    opacity: 0.8;
-    margin-left: auto;
-    margin-right: auto; }
-    #we_love .sprite:hover {
-      opacity: 1; }
-  #we_love .sprite-angularjs {
-    background-position: 0 -47px;
-    width: 160px;
-    height: 45px; }
-    #we_love .sprite-angularjs:hover {
-      background-position: 0 0; }
-  #we_love .sprite-backbonejs {
-    background-position: 0 -124px;
-    width: 160px;
-    height: 28px;
-    margin-top: 37px;
-    margin-bottom: 57px; }
-    #we_love .sprite-backbonejs:hover {
-      background-position: 0 -94px; }
-  #we_love .sprite-codeigniter {
-    background-position: 0 -195px;
-    width: 160px;
-    height: 39px;
-    margin-top: 0; }
-    #we_love .sprite-codeigniter:hover {
-      background-position: 0 -154px; }
-  #we_love .sprite-django_light {
-    background-position: 0 -293px;
-    width: 160px;
-    height: 55px; }
-    #we_love .sprite-django_light:hover {
-      background-position: 0 -236px; }
-  #we_love .sprite-gruntjs {
-    background-position: 0 -413px;
-    width: 160px;
-    height: 61px;
-    margin-bottom: 35px; }
-    #we_love .sprite-gruntjs:hover {
-      background-position: 0 -350px; }
-  #we_love .sprite-meteor {
-    background-position: 0 -516px;
-    width: 160px;
-    height: 38px; }
-    #we_love .sprite-meteor:hover {
-      background-position: 0 -476px; }
-  #we_love .sprite-phonegap_square {
-    background-position: 0 -718px;
-    width: 160px;
-    height: 160px;
-    margin-top: 0; }
-    #we_love .sprite-phonegap_square:hover {
-      background-position: 0 -556px; }
-  #we_love .sprite-sass {
-    background-position: 0 -1001px;
-    width: 160px;
-    height: 119px; }
-    #we_love .sprite-sass:hover {
-      background-position: 0 -880px; }
-  #we_love .sprite-wordpress {
-    background-position: 0 -1224px;
-    width: 160px;
-    height: 100px;
-    margin-top: 0px; }
-    #we_love .sprite-wordpress:hover {
-      background-position: 0 -1122px; }
-  #we_love .sprite-yii {
-    background-position: 0 -1361px;
-    width: 160px;
-    height: 33px;
-    margin-top: 37px;
-    margin-bottom: 45px; }
-    #we_love .sprite-yii:hover {
-      background-position: 0 -1326px; }
+#we-love .fusion-one-fifth {
+  text-align: center; }
+
+#we-love img {
+  filter: grayscale(1);
+  cursor: pointer;
+  opacity: 0.5;
+  transition: all .2s ease-in-out; }
+  #we-love img:hover {
+    filter: grayscale(0);
+    opacity: 1;
+    transform: scale(1.1); }
 
 .img-typescript {
   opacity: 0.5;
