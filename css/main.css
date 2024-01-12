@@ -1097,7 +1097,7 @@ span.form-control-wrap input {
     justify-content: space-between;
     align-items: center; }
     #things-we-do #we-work-with .imageframe-align-center div {
-      width: 33%; }
+      width: 28%; }
       #things-we-do #we-work-with .imageframe-align-center div img {
         max-height: 60px;
         margin-bottom: 40px; }
@@ -2675,7 +2675,14 @@ figcaption {
     top: 2px !important; }
 
   .rev_slider .button span, .ls-container .button span {
-    font-size: 10px !important; } }
+    font-size: 10px !important; }
+
+  #things-we-do #we-work-with .imageframe-align-center div {
+    width: 100%; }
+
+  #we-love img {
+    width: 50%;
+    padding: 10px; } }
 @media only screen and (max-width: 640px) {
   .rev_slider .button, .ls-container .button {
     padding-left: 20px;
