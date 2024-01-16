@@ -3,7 +3,7 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <link href="https://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2024-01-16T16:30:02+01:00</updated>
+  <updated>2024-01-16T16:36:08+01:00</updated>
   <id>https://azdv.co/</id>
 
   
@@ -26,9 +26,7 @@
       
 
       <id>https://azdv.co/2024/01/time-date-js</id>
-      <content type="html" xml:base="https://azdv.co/2024/01/time-date-js/">&lt;h1 id=&quot;taming-time-and-date-in-javascript-a-comparative-exploration&quot;&gt;Taming Time and Date in JavaScript: A Comparative Exploration&lt;/h1&gt;
-
-&lt;p&gt;Time and date manipulation is a notoriously tricky aspect of programming. In JavaScript, the built-in &lt;code class=&quot;highlighter-rouge&quot;&gt;Date&lt;/code&gt; object comes with its own set of complexities and quirks. Developers often turn to libraries such as Moment.js or date-fns to simplify this task. However, a new feature proposal, Temporal, is poised to revolutionize how we handle dates and times in JavaScript. This article will explore the limitations of the current JavaScript &lt;code class=&quot;highlighter-rouge&quot;&gt;Date&lt;/code&gt; object, compare it to popular libraries, and introduce the proposed Temporal API.&lt;/p&gt;
+      <content type="html" xml:base="https://azdv.co/2024/01/time-date-js/">&lt;p&gt;Time and date manipulation is a notoriously tricky aspect of programming. In JavaScript, the built-in &lt;code class=&quot;highlighter-rouge&quot;&gt;Date&lt;/code&gt; object comes with its own set of complexities and quirks. Developers often turn to libraries such as Moment.js or date-fns to simplify this task. However, a new feature proposal, Temporal, is poised to revolutionize how we handle dates and times in JavaScript. This article will explore the limitations of the current JavaScript &lt;code class=&quot;highlighter-rouge&quot;&gt;Date&lt;/code&gt; object, compare it to popular libraries, and introduce the proposed Temporal API.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-quirks-of-javascripts-date-object&quot;&gt;The Quirks of JavaScript’s Date Object&lt;/h2&gt;
 
@@ -154,7 +152,7 @@
       
 
       
-        <summary>Taming Time and Date in JavaScript: A Comparative Exploration</summary>
+        <summary>Time and date manipulation is a notoriously tricky aspect of programming. In JavaScript, the built-in Date object comes with its own set of complexities and quirks. Developers often turn to libraries such as Moment.js or date-fns to simplify this task. However, a new feature proposal, Temporal, is poised to revolutionize how we handle dates and times in JavaScript. This article will explore the limitations of the current JavaScript Date object, compare it to popular libraries, and introduce the proposed Temporal API.</summary>
       
     </entry>
   
