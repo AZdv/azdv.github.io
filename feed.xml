@@ -3,7 +3,7 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <link href="https://azdv.co/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://azdv.co/" rel="alternate" type="text/html" />
-  <updated>2024-01-16T16:25:58+01:00</updated>
+  <updated>2024-01-16T16:30:02+01:00</updated>
   <id>https://azdv.co/</id>
 
   
@@ -128,7 +128,7 @@
 &lt;p&gt;In conclusion, while we wait for Temporal to become a part of the JavaScript standard, it’s worth familiarizing ourselves with its API and the benefits it offers. The future of date and time manipulation in JavaScript is looking bright, and Temporal is poised to be at the forefront of this new chapter. As a web development agency committed to innovation and best practices, AZdev is excited about integrating Temporal into our workflows, ensuring our projects remain on the cutting edge and our developers stay ahead of the curve.&lt;/p&gt;
 </content>
       
-        <image>https://azdv.co/img/posts/2023/11/golang-gopher.png</image>
+        <image>https://azdv.co/img/posts/2024/01/time-date-js.png</image>
       
 
       
@@ -144,9 +144,13 @@
       
 
       
-        <category term="ai" />
+        <category term="Date" />
       
-        <category term="llm" />
+        <category term="JavaScript" />
+      
+        <category term="Time" />
+      
+        <category term="momentJS" />
       
 
       
